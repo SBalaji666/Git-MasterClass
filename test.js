@@ -1,0 +1,1 @@
+const text = "added some text is js file" 
